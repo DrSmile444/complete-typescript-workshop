@@ -1,5 +1,13 @@
 # 📐 Sort Geometric Shapes by Area using TypeScript (Immutable Edition)
 
+## 📖 Table of Contents
+
+  - [📜 Intro](#-intro)
+  - [💡 Examples](#-examples)
+  - [🕵️‍♀️ Hints](#️️-hints)
+  - [💻 Starting Code](#-starting-code)
+  - [✉️ Submission Instructions](#️-submission-instructions)
+
 ## 📜 Intro
 
 In this exercise, you will be provided with an array of geometric shapes. This array will consist of both rectangles and circles. Rectangles will be represented as a tuple of two numbers (width and length), while circles will be represented as a single number (radius).
