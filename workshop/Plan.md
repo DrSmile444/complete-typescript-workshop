@@ -21,8 +21,6 @@ The workshop will be divided into three main topics, each building upon the prev
 3. [Advanced Topics](./AdvancedTopics.md): 🔥
   - Generics and type inference
   - Advanced type system features
-  - Modules and namespaces
-  - Decorators and metadata
 
 By covering these three topics, you will gain a solid foundation in TypeScript, enabling you to write scalable, maintainable, and type-safe applications.
 
