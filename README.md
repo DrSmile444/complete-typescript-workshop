@@ -31,6 +31,9 @@
 
 Welcome to our TypeScript Workshop! This program is designed to guide you through the fundamental and advanced concepts of TypeScript, a powerful statically typed superset of JavaScript.
 
+More details here 👇<br>
+--> [Masters Academy Site - Complete TypeScript Workshop](https://www.mastersacademy.education/complete-typescript-workshop)
+
 ## 📖 Table of Contents
 
   - [✅ How to attend the workshop?](#-how-to-attend-the-workshop)
