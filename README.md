@@ -37,6 +37,8 @@ More details here 👇<br>
 ## 📖 Table of Contents
 
   - [✅ How to attend the workshop?](#-how-to-attend-the-workshop)
+    - [**🖋️ To register for the workshop**](#️-to-register-for-the-workshop)
+  - [📚 Workshop Plan](#-workshop-plan)
   - [🤔 Why This Workshop?](#-why-this-workshop)
   - [🧠 What Will You Learn?](#-what-will-you-learn)
   - [🙋‍♂️🙋‍♀️ Who Should Attend?](#️️-who-should-attend)
@@ -44,9 +46,23 @@ More details here 👇<br>
 
 ## ✅ How to attend the workshop?
 
-### **🖋️ To register for the workshop:**
+### **🖋️ To register for the workshop**
 1) 💪 Complete the [next task](./test/test-task.md);
 2) 📥 Submit the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfxswHl5hr61PN1hd0w_RNbzDXfuin_NjLeb92TXDLRVb8Y7A/viewform?fbclid=PAAaZ2LgH4N3ltCEKLkgdMRwd9OGTX5MtzhDQqidcX5TLOdK-VhpsZfIKQaOQ).
+
+## 📚 Workshop Plan
+
+To ensure a smooth and organized learning experience, we have moved the detailed workshop plan into a separate Markdown file.
+
+**You can access the full plan by clicking [here](./workshop/Plan.md).**
+
+In the comprehensive workshop plan, you will find a breakdown of the entire TypeScript workshop curriculum, including the three main topics:
+
+- 📚 Introduction to TypeScript
+- 🌱 Basic Concepts
+- 🔥 Advanced Topics
+
+Each topic is covered in depth, with detailed explanations, examples, and exercises to help you grasp the concepts effectively.
 
 ## 🤔 Why This Workshop?
 
@@ -76,6 +92,6 @@ This workshop is perfect for:
 
 ## 🚀 Workshop Slogan
 
-### "Розкрий потенціал сучасної веб-розробки з TypeScript!"
+> "Розкрий потенціал сучасної веб-розробки з TypeScript!"
 
 Join us and elevate your coding skills to the next level with TypeScript!
