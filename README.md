@@ -25,17 +25,31 @@
 
 ---
 
-# Complete TypeScript Workshop
+# 🚀 Complete TypeScript Workshop
+
+[![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine)
 
 Welcome to our TypeScript Workshop! This program is designed to guide you through the fundamental and advanced concepts of TypeScript, a powerful statically typed superset of JavaScript.
 
-## Why This Workshop?
+## 📖 Table of Contents
+
+  - [✅ How to attend the workshop?](#-how-to-attend-the-workshop)
+  - [🤔 Why This Workshop?](#-why-this-workshop)
+  - [🧠 What Will You Learn?](#-what-will-you-learn)
+  - [🙋‍♂️🙋‍♀️ Who Should Attend?](#️️-who-should-attend)
+  - [🚀 Workshop Slogan](#-workshop-slogan)
+
+## ✅ How to attend the workshop?
+
+To register for the workshop, complete the [next task](./test/test-task.md) and [submit the Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfxswHl5hr61PN1hd0w_RNbzDXfuin_NjLeb92TXDLRVb8Y7A/viewform?fbclid=PAAaZ2LgH4N3ltCEKLkgdMRwd9OGTX5MtzhDQqidcX5TLOdK-VhpsZfIKQaOQ).
+
+## 🤔 Why This Workshop?
 
 The programming landscape is rapidly evolving, and TypeScript has emerged as a vital tool for building robust, scalable, and maintainable applications. By introducing static types, TypeScript enhances JavaScript with improved tooling, better collaboration, and additional constructs that greatly increase the quality of your code.
 
 Our goal is to provide you with a deep understanding of TypeScript, from basic syntax and concepts to advanced features like generics, conditional types, and more. We believe that understanding these concepts will empower you to write better, more reliable, and more maintainable code.
 
-## What Will You Learn?
+## 🧠 What Will You Learn?
 
 By attending this workshop, you will:
 
@@ -46,7 +60,7 @@ By attending this workshop, you will:
 - Learn best practices for writing clean, efficient, and maintainable TypeScript code.
 - Have an opportunity to clarify your doubts and learn directly from experienced TypeScript developers.
 
-## Who Should Attend?
+## 🙋‍♂️🙋‍♀️ Who Should Attend?
 
 This workshop is perfect for:
 
@@ -55,12 +69,8 @@ This workshop is perfect for:
 - Developer teams wanting to introduce TypeScript into their projects
 - Students and professionals looking to expand their knowledge and skills in web development
 
-## Workshop Slogan
+## 🚀 Workshop Slogan
 
-"Розкрий потенціал сучасної веб-розробки з TypeScript!"
+### "Розкрий потенціал сучасної веб-розробки з TypeScript!"
 
 Join us and elevate your coding skills to the next level with TypeScript!
-
-## How to attend the workshop?
-
-To register for the workshop, complete the [next task](./test/test-task.md) and [submit the Google Form (TBA)](#).
