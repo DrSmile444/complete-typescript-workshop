@@ -47,7 +47,7 @@ More details here 👇<br>
 ## ✅ How to attend the workshop?
 
 ### **🖋️ To register for the workshop**
-1) 💪 Complete the [next task](./test/test-task.md);
+1) 💪 Complete the [test task](./test/test-task.md);
 2) 📥 Submit the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfxswHl5hr61PN1hd0w_RNbzDXfuin_NjLeb92TXDLRVb8Y7A/viewform?fbclid=PAAaZ2LgH4N3ltCEKLkgdMRwd9OGTX5MtzhDQqidcX5TLOdK-VhpsZfIKQaOQ).
 
 ## 📚 Workshop Plan
