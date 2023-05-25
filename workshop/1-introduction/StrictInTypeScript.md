@@ -84,3 +84,7 @@ class C {
 ```
 
 Overall, the `strict` option can help you catch a lot of potential bugs and make your TypeScript code more robust. It's generally a good idea to enable it if you can.
+
+---
+
+## 🎯 So, let's try it live! [Go in the ts file](./strict-in-typescript.ts).
