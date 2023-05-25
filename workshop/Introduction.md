@@ -6,24 +6,24 @@ Welcome to the first topic of our TypeScript workshop: Introduction to TypeScrip
 
 This topic is divided into several subtopics, each focusing on a specific aspect of TypeScript. Here's an overview of what we'll cover:
 
-1. [What is TypeScript?](./1-introduction/WhatIsTypeScript.md)
+1. [🧪 What is TypeScript?](./1-introduction/WhatIsTypeScript.md)
   - TypeScript as a typed superset of JavaScript
   - Introduction to optional static typing
   - Playground link: [TypeScript Playground](https://www.typescriptlang.org/play)
 
-2. [Benefits of TypeScript](./1-introduction/BenefitsOfTypeScript.md)
+2. [💪 Benefits of TypeScript](./1-introduction/BenefitsOfTypeScript.md)
   - Catching errors early with static types
   - Improving code quality and maintainability
   - Enhanced editor support and autocompletion
 
-3. [Setting up TypeScript](./1-introduction/SettingUpTypeScript.md)
+3. [🔧 Setting up TypeScript](./1-introduction/SettingUpTypeScript.md)
   - Installing TypeScript
   - Configuring tsconfig.json
   - Leveraging strict mode
   - Uncovering the "noUncheckedIndexedAccess" configuration option
   - Compiling TypeScript to JavaScript
 
-4. [Strict in TypeScript](./1-introduction/StrictInTypeScript.md)
+4. [🕵️ Strict in TypeScript](./1-introduction/StrictInTypeScript.md)
   - `strict` option in `tsconfig.json`
   - Which options it combines with examples
 

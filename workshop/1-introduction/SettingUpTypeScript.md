@@ -1,4 +1,4 @@
-# Setting up TypeScript
+# 🔧 Setting up TypeScript
 
 ## 1. Create a new TypeScript project:
 

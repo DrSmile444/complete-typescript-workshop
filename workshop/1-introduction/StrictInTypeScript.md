@@ -1,4 +1,4 @@
-# The `strict` Option in `tsconfig.json`
+# 🕵️ The `strict` Option in `tsconfig.json`
 
 The `strict` option in your `tsconfig.json` file enables a wide range of type checking behavior to detect more potential issues in your code. Essentially, it's a convenience option that turns on a group of settings at once. When you set `"strict": true`, you enable the following options:
 

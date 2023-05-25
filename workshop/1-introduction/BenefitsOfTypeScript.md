@@ -1,5 +1,5 @@
 
-# Benefits of TypeScript
+# 💪 Benefits of TypeScript
 
 1. Catch errors early: TypeScript's static typing helps identify issues during development, reducing runtime errors.
    Example:
