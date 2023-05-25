@@ -36,8 +36,12 @@ More details here 👇<br>
 
 ## 📖 Table of Contents
 
+  - [📖 Table of Contents](#-table-of-contents)
   - [✅ How to attend the workshop?](#-how-to-attend-the-workshop)
     - [**🖋️ To register for the workshop**](#️-to-register-for-the-workshop)
+  - [📝 Workshop Requirements](#-workshop-requirements)
+    - [⚙️ Node.js](#️-nodejs)
+    - [📦 Workshop Repository](#-workshop-repository)
   - [📚 Workshop Plan](#-workshop-plan)
   - [🤔 Why This Workshop?](#-why-this-workshop)
   - [🧠 What Will You Learn?](#-what-will-you-learn)
@@ -49,6 +53,54 @@ More details here 👇<br>
 ### **🖋️ To register for the workshop**
 1) 💪 Complete the [test task](./test/test-task.md);
 2) 📥 Submit the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfxswHl5hr61PN1hd0w_RNbzDXfuin_NjLeb92TXDLRVb8Y7A/viewform?fbclid=PAAaZ2LgH4N3ltCEKLkgdMRwd9OGTX5MtzhDQqidcX5TLOdK-VhpsZfIKQaOQ).
+
+## 📝 Workshop Requirements
+
+Before attending the workshop, please ensure you have the following:
+
+### ⚙️ Node.js
+
+You will need Node.js version 16 or above. We recommend managing your Node.js versions using NVM (Node Version Manager) if you are using MacOS or Ubuntu.
+
+- MacOS or Ubuntu: [Install NVM](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Windows: [Install Node.js LTS](https://nodejs.org/en/)
+
+To check your Node version, open a terminal and run:
+
+```bash
+node -v
+```
+
+If you've successfully installed Node.js, it should print the version number.
+
+### 📦 Workshop Repository
+
+You will need to clone the workshop repository which contains all the necessary files and examples we will be working on.
+
+Repository: `git@github.com:DrSmile444/complete-typescript-workshop.git`
+
+To clone the repository, open a terminal and run:
+
+```bash
+git clone git@github.com:DrSmile444/complete-typescript-workshop.git
+```
+
+This will create a new directory named `complete-typescript-workshop` containing all the files from the repository. Navigate into it with:
+
+```bash
+cd complete-typescript-workshop
+```
+
+On the start of the session, ensure you have the latest changes by pulling from the repository:
+
+```bash
+git pull
+```
+
+Please make sure to have all of these ready before the workshop. If you have any issues, don't hesitate to reach out to us for assistance.
+
+Looking forward to seeing you at the workshop!
+
 
 ## 📚 Workshop Plan
 
