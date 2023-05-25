@@ -26,8 +26,13 @@ This topic is divided into several subtopics, each focusing on a specific aspect
   - Which options it combines with examples
 
 5. [📛 What is noUncheckedIndexedAccess?](./1-introduction/NoUncheckedIndexedAccess.md)
+  - How and why to use it
 
 6. [🏃‍♂️ Run TS directly with ts-node](./1-introduction/RunTsDirectlyWithTsNode.md)
+  - Benefits
+  - Install
+  - Production Use
+  - If you still want to use in production
 
 7. [🚀 Speed up with SWC](./1-introduction/RunTsDirectlyWithTsNode.md)
   - Why is SWC faster?
