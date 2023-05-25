@@ -29,6 +29,11 @@ This topic is divided into several subtopics, each focusing on a specific aspect
 
 6. [🏃‍♂️ Run TS directly with ts-node](./1-introduction/RunTsDirectlyWithTsNode.md)
 
+7. [🚀 Speed up with SWC](./1-introduction/RunTsDirectlyWithTsNode.md)
+  - Why is SWC faster?
+  - How to Install and Use SWC with ts-node
+  - Use ts-node with SWC
+  - Use it with Jest
 
 By exploring these subtopics, you will gain a solid understanding of TypeScript's purpose, its benefits, and the necessary steps to set up a TypeScript development environment. Additionally, we will highlight a hidden gem among TypeScript's configuration options: "noUncheckedIndexedAccess," which can greatly enhance your code's safety.
 
