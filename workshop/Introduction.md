@@ -19,7 +19,6 @@ This topic is divided into several subtopics, each focusing on a specific aspect
 3. [🔧 Setting up TypeScript](./1-introduction/SettingUpTypeScript.md)
   - Installing TypeScript
   - Configuring tsconfig.json
-  - Uncovering the "noUncheckedIndexedAccess" configuration option
   - Compiling TypeScript to JavaScript
 
 4. [🕵️ Strict in TypeScript](./1-introduction/StrictInTypeScript.md)
@@ -27,6 +26,8 @@ This topic is divided into several subtopics, each focusing on a specific aspect
   - Which options it combines with examples
 
 5. [📛 What is noUncheckedIndexedAccess?](./1-introduction/NoUncheckedIndexedAccess.md)
+
+6. [🏃‍♂️ Run TS directly with ts-node](./1-introduction/RunTsDirectlyWithTsNode.md)
 
 
 By exploring these subtopics, you will gain a solid understanding of TypeScript's purpose, its benefits, and the necessary steps to set up a TypeScript development environment. Additionally, we will highlight a hidden gem among TypeScript's configuration options: "noUncheckedIndexedAccess," which can greatly enhance your code's safety.
