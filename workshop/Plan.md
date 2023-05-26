@@ -22,6 +22,9 @@ The workshop will be divided into three main topics, each building upon the prev
   - Generics and type inference
   - Advanced type system features
 
+4. [Bonus](./Bonus.md): 🎁
+
+
 By covering these three topics, you will gain a solid foundation in TypeScript, enabling you to write scalable, maintainable, and type-safe applications.
 
 ## 🤝 Workshop Benefits
