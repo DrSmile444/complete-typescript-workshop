@@ -2,7 +2,7 @@
 
 In TypeScript, you often want to describe types where you have a set of properties with specific types. Union and Intersection types are powerful ways to express such relationships between types.
 
-## 🎯 So, let's try it live! [Go in the ts file](./unionAndIntersectionTypes.ts).
+## 🎯 So, let's try it live! [Go in the ts file](./union-and-intersection-types.ts).
 
 ## Combining and Intersecting Types
 

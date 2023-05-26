@@ -2,7 +2,7 @@
 
 TypeScript provides us with a few unique types that can help to manage exceptional or unusual cases - `never` and `unknown`. They are useful in certain circumstances and understanding them can help us write safer and more robust code.
 
-## 🎯 So, let's try it live! [Go in the ts file](./neverUnknown.ts).
+## 🎯 So, let's try it live! [Go in the ts file](./never-unknown.ts).
 
 ## Explanation and use cases for never type
 

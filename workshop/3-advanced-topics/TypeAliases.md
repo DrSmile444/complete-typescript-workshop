@@ -2,7 +2,7 @@
 
 Type aliases are a way to give a new name to a type. Type aliases work with any kind of type including primitives (except null and undefined), unions and intersections types, and user-defined types.
 
-## 🎯 So, let's try it live! [Go in the ts file](./typeAliases.ts).
+## 🎯 So, let's try it live! [Go in the ts file](./type-aliases.ts).
 
 ## Defining and using type aliases
 

@@ -2,7 +2,7 @@
 
 Conditional types are a powerful feature in TypeScript that enable the expression of complex type relationships that cannot be expressed with other, simpler types.
 
-## 🎯 So, let's try it live! [Go in the ts file](./conditionalTypes.ts).
+## 🎯 So, let's try it live! [Go in the ts file](./conditional-types.ts).
 
 ## Basic Syntax and Usage
 

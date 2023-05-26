@@ -2,7 +2,7 @@
 
 Type inference is a powerful feature in TypeScript that makes it easier for developers to write and maintain code by reducing the amount of explicit type annotations they need to add.
 
-## 🎯 So, let's try it live! [Go in the ts file](./typeInference.ts).
+## 🎯 So, let's try it live! [Go in the ts file](./type-inference.ts).
 
 ## Automatic Type Inference
 
