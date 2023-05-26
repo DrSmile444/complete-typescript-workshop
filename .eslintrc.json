@@ -16,7 +16,8 @@
     "./.eslint/unicorn.eslintrc.json",
     "./.eslint/ordered-imports.eslintrc.json5",
     "./.eslint/typescript.eslintrc.json",
-    "./.eslint/prettier.eslintrc.json"
+    "./.eslint/prettier.eslintrc.json",
+    "./.eslint/ts-workshop.eslintrc.json"
   ],
   "rules": {
     "consistent-return": "off",
