@@ -1,5 +1,7 @@
 # 📑 Enumerations
 
+## 🎯 So, let's try it live! [Go in the ts file](./enums.ts).
+
 ## Numeric and String Enums
 
 Enums (short for enumerations) are a new data type that allow for a collection of related values that can be numeric or string-based.
