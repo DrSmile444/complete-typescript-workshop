@@ -47,6 +47,19 @@ This topic comprises several subtopics, each delving into a specific advanced co
       -   Safer alternative to any
       -   Type narrowing and type guards
 
+8. [🕵️‍♂️ Infer in TypeScript](./3-advanced-topics)
+  -   Explanation of conditional types and their use cases
+      -   Transforming types based on conditions
+      -   Creating utility types
+      -   Infer is easier than you think
+      -   Decode search params with TYPESCRIPT ONLY - Advanced TypeScript
+  -   Explanation of infer keyword and how to use it in conditional types
+      -   Inferring types within conditional types
+      -   Extracting types from other types
+      -   Fix ANNOYING OBJECT KEYS with infer and template literals
+
+
+
 By exploring these advanced subtopics, you will expand your knowledge of TypeScript and learn powerful techniques to tackle complex scenarios. From mastering generics to leveraging union and intersection types, understanding type inference, conditional types, mapped types, and type aliases, you will gain a deeper understanding of TypeScript's versatility.
 
 Feel free to click on the provided links to access each subtopic in detail. Happy learning and exploring the advanced frontiers of TypeScript!
