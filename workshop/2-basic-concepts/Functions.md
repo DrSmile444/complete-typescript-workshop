@@ -1,3 +1,5 @@
+# 📚 Functions
+
 ## 🎯 So, let's try it live! [Go in the ts file](./functions.ts).
 
 ## Type Annotations for Function Parameters and Return Types
