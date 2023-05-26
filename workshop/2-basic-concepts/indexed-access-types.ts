@@ -4,8 +4,8 @@
 
 // Get one key
 interface Colors {
-    primary: "blue",
-    secondary: "yellow",
+  primary: 'blue';
+  secondary: 'yellow';
 }
 
 type PrimaryType = unknown;
@@ -19,6 +19,6 @@ type EveryLetter = unknown;
 // Get nested types
 
 const userRoleConfig = {
-    user: ["view"],
-    admin: ["view", "edit", "delete"],
+  user: ['view'],
+  admin: ['view', 'edit', 'delete'],
 };

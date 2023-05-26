@@ -1,1 +1,1 @@
-export const myObj: Record<string, string[]> = {};
+export const myObject: Record<string, string[]> = {};

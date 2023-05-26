@@ -2,12 +2,12 @@
 // These include string, number, boolean, null, undefined, and symbol.
 // We can also define array and tuple types for handling collections of data.
 
-const str: string = 'Hello, TypeScript!';
-const num: number = 42;
-const bool: boolean = true;
-const nothing: null = null;
-const notDefined: undefined = undefined;
-const uniqueValue: symbol = Symbol('unique');
+const string = 'Hello, TypeScript!';
+const number = 42;
+const bool = true;
+const nothing = null;
+const notDefined = undefined;
+const uniqueValue = Symbol('unique');
 
-const numArray: number[] = [1, 2, 3];
+const numberArray: number[] = [1, 2, 3];
 const tuple: [string, number] = ['TypeScript', 2023];
