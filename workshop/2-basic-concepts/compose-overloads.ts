@@ -8,6 +8,6 @@ export function compose(...arguments_: any[]) {
 
 const addOne = (number: number) => number + 1;
 const numberToString = (number: number) => number.toString();
-const stringToNumber = (string: string) => Number.parseInt(string);
+const stringToNumber = (string: string) => Number.parseInt(string, 10);
 
 const addOneToString = compose(addOne, numberToString, stringToNumber);
