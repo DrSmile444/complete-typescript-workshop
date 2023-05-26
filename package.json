@@ -6,11 +6,27 @@
     "type": "git",
     "url": "git+https://github.com/DrSmile444/complete-typescript-workshop.git"
   },
+  "scripts": {
+    "lint:js": "eslint . --cache --quiet",
+    "lint:js:fix": "npm run lint:js -- --fix"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DrSmile444/complete-typescript-workshop/issues"
   },
-  "homepage": "https://github.com/DrSmile444/complete-typescript-workshop#readme"
+  "homepage": "https://github.com/DrSmile444/complete-typescript-workshop#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.7",
+    "@typescript-eslint/parser": "^5.59.7",
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-unicorn": "^47.0.0",
+    "prettier": "^2.8.8"
+  }
 }
