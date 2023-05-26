@@ -38,6 +38,15 @@ This topic comprises several subtopics, each delving into a specific advanced co
   - The power of literal types in TypeScript (Advanced TypeScript)
   - Creating a function with autocomplete that returns literals
 
+7. [🧩 Why to use never and unknown types?](./3-advanced-topics/NeverUnknown.md)
+  -   Explanation and use cases for never type
+      -   Functions that never return
+      -   Exhaustive type checking
+      -   CUSTOM ERRORS in TypeScript? - Advanced TypeScript
+  -   Explanation and use cases for unknown type
+      -   Safer alternative to any
+      -   Type narrowing and type guards
+
 By exploring these advanced subtopics, you will expand your knowledge of TypeScript and learn powerful techniques to tackle complex scenarios. From mastering generics to leveraging union and intersection types, understanding type inference, conditional types, mapped types, and type aliases, you will gain a deeper understanding of TypeScript's versatility.
 
 Feel free to click on the provided links to access each subtopic in detail. Happy learning and exploring the advanced frontiers of TypeScript!
