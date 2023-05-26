@@ -9,17 +9,17 @@ This topic comprises several subtopics, each delving into a specific advanced co
 1. [🔤 Generics](./3-advanced-topics/Generics.md)
   - Using generics with functions, classes, and interfaces
   - Generic constraints
-  - Using EXTENDS to constrain generics (Advanced TypeScript)
-  - Improving OBJECT.KEYS in TypeScript (Advanced TypeScript)
-  - Mastering Generic Slots in TypeScript (Advanced TypeScript)
-  - Overloads vs. Generics: Which is better? (Advanced TypeScript)
+  - [Using EXTENDS to constrain generics (Advanced TypeScript)](./3-advanced-topics/extends-generics.ts)
+  - [📅 HOMEWORK: Improving OBJECT.KEYS in TypeScript (Advanced TypeScript)](https://www.youtube.com/watch?v=GW00zebIt0g)
+  - [📅 HOMEWORK: Mastering Generic Slots in TypeScript (Advanced TypeScript)](https://www.youtube.com/watch?v=-rJ2XzQg8Ek)
+  - [📅 HOMEWORK: Overloads vs. Generics: Which is better? (Advanced TypeScript)](https://www.youtube.com/watch?v=Vr1BUFw6dJM&pp=ygU-T3ZlcmxvYWRzIHZzLiBHZW5lcmljczogV2hpY2ggaXMgYmV0dGVyPyAoQWR2YW5jZWQgVHlwZVNjcmlwdCk%3D)
 
 2. [🔀 Union and Intersection Types](./3-advanced-topics/UnionAndIntersectionTypes.md)
   - Combining and intersecting types
   - Discriminated unions
   - Removing a member of a Union Type
-  - Building LOOSE AUTOCOMPLETE with TypeScript
-  - Turn MODULES INTO TYPES with typeof import (Advanced TypeScript)
+  - [📅 HOMEWORK: Building LOOSE AUTOCOMPLETE with TypeScript](https://www.youtube.com/watch?v=a_m7jxrTlaw&pp=ygUrQnVpbGRpbmcgTE9PU0UgQVVUT0NPTVBMRVRFIHdpdGggVHlwZVNjcmlwdA%3D%3D)
+  - [📅 HOMEWORK: Turn MODULES INTO TYPES with typeof import (Advanced TypeScript)](https://www.youtube.com/watch?v=sswUBXaoXSI&pp=ygVAVHVybiBNT0RVTEVTIElOVE8gVFlQRVMgd2l0aCB0eXBlb2YgaW1wb3J0IChBZHZhbmNlZCBUeXBlU2NyaXB0KQ%3D%3D)
 
 3. [🧠 Type Inference](./3-advanced-topics/TypeInference.md)
   - Automatic type inference
